@@ -1,0 +1,19 @@
+{
+  "name": "cp04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Leo-Queijo/cp-04-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leo-Queijo/cp-04-web/issues"
+  },
+  "homepage": "https://github.com/Leo-Queijo/cp-04-web#readme",
+  "description": ""
+}
