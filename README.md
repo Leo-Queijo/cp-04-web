@@ -1,21 +1,19 @@
 Este repositório contém um módulo Node.js que gera nomes aleatórios e pode ser publicado no npm. O projeto segue o formato de módulos ECMAScript (ESM) e está preparado para ser utilizado tanto localmente quanto como um pacote público.
 
 Antes de iniciar, verifique se você tem os seguintes itens instalados no seu sistema:
-•	Node.js (versão mais recente •	Conta no GitHub
-Conta no npm 
+•Node.js (versão mais recente) 
+•Conta no GitHub
+•Conta no npm 
 
 Baixe e instale o Git
 
 Baixe e instale o Node.js
 
-Após a instalação, verifique se o Git e o Node.js estão instalados corretamente executando os seguintes comandos no terminal
-
-git --version
-node -v
-npm -v
+Após a instalação, verifique se o Git e o Node.js estão instalados corretamente 
 
 Acesse GitHub e crie um novo repositório chamado cp-04-web.
-2.	Clone o repositório na sua máquina
+
+Clone o repositório na sua máquina
 
 Agora, dentro do diretório do projeto, execute
 
@@ -48,4 +46,10 @@ Publicando no npm, para tornar público:
 
 npm publish --access public
 
-Acesse npmjs.com e procure por @my-username/cp-04-web
+Acesse npmjs.com e procure por @seuusuario/cp-04-web
+
+
+LEONARDO LUIZ JARDIM QUEIJO - RM559842
+LUCAS DE ALMEIDA VILLAR -
+ENZO GALHARDO - 
+KAUAN DIOGO DA PAZ SILVA - 
